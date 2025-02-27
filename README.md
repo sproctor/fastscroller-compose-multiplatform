@@ -53,16 +53,16 @@ repositories {
 }
 
 dependencies {
-    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-core:0.3.0"
+    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-core:0.3.1"
 
     // Optional: Provides scroll bar Material Design 2 theme by defaultMaterialScrollbarStyle
-    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-material:0.3.0"
+    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-material:0.3.1"
 
     // Optional: Provides scroll bar Material Design 3 theme by defaultMaterialScrollbarStyle
-    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-material3:0.3.0"
+    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-material3:0.3.1"
 
     // Optional: Provides scroll bar indicator shape
-    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-indicator:0.3.0"
+    implementation "io.github.oikvpqya.compose.fastscroller:fastscroller-indicator:0.3.1"
 }
 ```
 
