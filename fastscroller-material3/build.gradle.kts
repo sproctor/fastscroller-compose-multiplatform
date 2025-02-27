@@ -7,7 +7,7 @@ plugins {
 }
 
 kotlin {
-    jvmToolchain(1_8)
+    jvmToolchain(8)
 
     applyDefaultHierarchyTemplate()
 
