@@ -49,7 +49,7 @@ kotlin {
 
 android {
     compileSdk = 34
-    namespace = "io.github.oikvpqya.compose.fastscroller"
+    namespace = "io.github.oikvpqya.compose.fastscroller.indicator"
 
     defaultConfig {
         minSdk = 21

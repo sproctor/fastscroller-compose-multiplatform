@@ -52,7 +52,7 @@ kotlin {
 
 android {
     compileSdk = 34
-    namespace = "io.github.oikvpqya.compose.fastscroller"
+    namespace = "io.github.oikvpqya.compose.fastscroller.material"
 
     defaultConfig {
         minSdk = 21
