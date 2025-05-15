@@ -2,7 +2,7 @@
 
 Implementing scroll bars in Compose Multiplatform
 
-The scroll bar implementations available in `androidx.compose.foundation:foundation` library, but it is [currently available for Compose Multiplatform without Android](https://github.com/JetBrains/compose-multiplatform/tree/master/tutorials/Desktop_Components#scrollbars). (To be precise, it is available on all platforms except Android, but the implementation is not optimized for mobile.)
+The scroll bar implementations available in `androidx.compose.foundation:foundation` library, but it is [currently available for Compose Multiplatform without Android](https://github.com/JetBrains/compose-multiplatform/tree/v1.7.3/tutorials/Desktop_Components#scrollbars). (To be precise, it is available on all platforms except Android, but the implementation is not optimized for mobile.)
 
 This library changes that, by providing the scroll bar implementations for many of the platforms supported by Compose Multiplatform.
 And more changes inspired by [Google's Launcher3 FastScroller](https://android.googlesource.com/platform/packages/apps/Launcher3/).
@@ -70,7 +70,7 @@ dependencies {
 
 FastScroller for Compose Multiplatform is inspired by the following libraries:
 
-[JetBrains's Compose Multiplatform Scrollbar](https://github.com/JetBrains/compose-multiplatform-core/blob/jb-main/compose/foundation/foundation/src/skikoMain/kotlin/androidx/compose/foundation/Scrollbar.skiko.kt)
+[JetBrains's Compose Multiplatform Scrollbar](https://github.com/JetBrains/compose-multiplatform-core/blob/v1.7.3/compose/foundation/foundation/src/skikoMain/kotlin/androidx/compose/foundation/Scrollbar.skiko.kt)
 
 [Google's Launcher3 FastScroller](https://android.googlesource.com/platform/packages/apps/Launcher3/)
 
